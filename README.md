@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/b394f060-8349-487d-95d9-ef8521c57e44)
 
-<h1 align="center">Hi 👋, I'm whynotDev</h1>
+<h1 align="center">Hi 👋, I'm  A r i f</h1>
 <h3 align="center">As a software engineer, I apply my expertise in MERN stack to develop web and mobile applications that are user-friendly, responsive, and scalable. I have worked on multiple projects involving face recognition, e-commerce, and social media, using Jest, HTML5, and other technologies to ensure quality and performance. I am a techie, an auto enthusiast, and a startospheric thinker. I enjoy solving problems, creating innovative solutions, and collaborating with other developers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whynotdev&label=Profile%20views&color=0e75b6&style=flat" alt="whynotdev" /> </p>
