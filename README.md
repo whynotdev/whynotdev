@@ -1,3 +1,4 @@
+<img src="C:\Users\whyno\Downloads\github-header-image.png" />
 <h1 align="center">Hi 👋, I'm whynotDev</h1>
 <h3 align="center">As a software engineer, I apply my expertise in MERN stack to develop web and mobile applications that are user-friendly, responsive, and scalable. I have worked on multiple projects involving face recognition, e-commerce, and social media, using Jest, HTML5, and other technologies to ensure quality and performance. I am a techie, an auto enthusiast, and a startospheric thinker. I enjoy solving problems, creating innovative solutions, and collaborating with other developers.</h3>
 
