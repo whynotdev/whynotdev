@@ -1,4 +1,4 @@
-[![github-header-image (1)](https://github.com/user-attachments/assets/e82f090f-cdaf-4b25-875e-f540575552be)
+![github-header-image (1)](https://github.com/user-attachments/assets/e82f090f-cdaf-4b25-875e-f540575552be)
 <h1 align="center">Hi 👋, I'm  A r i f</h1>
 <h3 align="center">As a software engineer, I apply my expertise in MERN stack to develop web and mobile applications that are user-friendly, responsive, and scalable. I have worked on multiple projects involving face recognition, e-commerce, and social media, using Jest, HTML5, and other technologies to ensure quality and performance. I am a techie, an auto enthusiast, and a startospheric thinker. I enjoy solving problems, creating innovative solutions, and collaborating with other developers.</h3>
 
